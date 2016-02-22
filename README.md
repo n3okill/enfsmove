@@ -61,7 +61,7 @@ Additional Methods
 
 
 ### moveSync
-  - **moveSync(path, [options])**
+  - **moveSync(srcPath, dstPath, [options])**
 
 > Move files and directories in the file system
 

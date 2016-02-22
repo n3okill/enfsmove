@@ -8,6 +8,7 @@
 enfsmove
 =========
 Module that add move functionality to node fs module
+
 **enfs** stands for [E]asy [N]ode [fs]
 
 Description

@@ -1,6 +1,6 @@
 {
   "name": "enfsmove",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "move files and directories in the file system for node",
   "license": "CC-BY-4.0",
   "author": {

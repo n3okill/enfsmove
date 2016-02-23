@@ -11,6 +11,9 @@ Module that add move functionality to node fs module
 
 **enfs** stands for [E]asy [N]ode [fs]
 
+This module is intended to work as a sub-module of [enfs](https://www.npmjs.com/package/enfs)
+
+
 Description
 -----------
 This module will add a method that allows moving files and directories in the file system.

@@ -23,20 +23,20 @@
     "test": "test"
   },
   "dependencies": {
-    "rimraf": "2.5.2",
-    "enfspatch": "0.1",
-    "enfsmkdirp": "0.1",
-    "enfscopy": "0.1"
+    "rimraf": "^2.6.0",
+    "enfspatch": "^0.1",
+    "enfsmkdirp": "^0.1",
+    "enfscopy": "^0.1"
   },
   "scripts": {
     "test": "make test",
     "appveyor": "node ./node_modules/mocha/bin/mocha --reporter spec --require should test/*.js"
   },
   "devDependencies": {
-    "eslint": "2.7.0",
-    "eslint-plugin-mocha": "2.1.0",
-    "mocha": "2.4.5",
-    "should": "8.3.0"
+    "eslint": "^3.16.0",
+    "eslint-plugin-mocha": "^4.8.0",
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
   },
   "keywords": [
     "create",
